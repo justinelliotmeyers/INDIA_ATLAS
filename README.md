@@ -12,3 +12,6 @@ Bhuvan Settlement Polygons. Source: https://bhuvan.nrsc.gov.in/
 
 GlobeLand30 urban area features. Source: http://www.globallandcover.com/
 ![](https://github.com/justinelliotmeyers/INDIA_ATLAS/blob/master/images/India_globeland30.jpg)
+
+SOI Points. Source: National Informatics Centre
+![](https://github.com/justinelliotmeyers/INDIA_ATLAS/blob/master/images/India_SOI_Points.jpg)
