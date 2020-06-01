@@ -1,7 +1,9 @@
 # INDIA_ATLAS
 Location data for mapping every urban area in India.
 
-
+Facebook HRSL
+https://research.fb.com/downloads/high-resolution-settlement-layer-hrsl/
+![](https://github.com/justinelliotmeyers/INDIA_ATLAS/blob/master/images/India_Facebook.jpg)
 
 GUF 12 meter urban footprint polygon shapefile.
 Source: https://geoservice.dlr.de/web/maps/eoc:guf:4326
